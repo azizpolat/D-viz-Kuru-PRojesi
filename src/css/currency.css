@@ -1,0 +1,54 @@
+
+
+.currency-div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 50px;
+    width: 450px ;
+    height:200px;
+    border: 1px solid black;
+}
+
+
+.amount , .result {
+    width: 80px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.from-currency-option,
+.to-currency-option
+ {
+    width: 70px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+
+.baslık {
+    margin-top: -20px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+
+}
+
+.orta-body {
+    margin-top: 30px;
+}
+
+.cevir{
+    width: 80px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+
+
+}

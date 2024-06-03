@@ -1,0 +1,18 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url("./image/Altin-1.jpg");
+    /* background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+
+}
+
+.body-app {
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+}
